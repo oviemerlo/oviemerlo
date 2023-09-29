@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oviemerlo
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning how to build applications in AWS using Boto3 and python
-- 💞️ I’m looking to collaborate on building applications for test environments
+- 🌱 I’m currently building projects using Python, Django, ExpressJs, React, Javascript alongside database engines
+- 💞️ I’m looking to collaborate on building applications for development and production environments
 - 📫 How to reach me: oviemerlo@gmail.com
 
 <!---
